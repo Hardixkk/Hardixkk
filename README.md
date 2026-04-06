@@ -1,12 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🚀 About Me<br><br>Hi, I'm Hardik Kumar Singh 👋<br>💻 Java Developer | 🎓 BCA Final Year Student | 📍 Patna, Bihar<br><br>I am a results-driven developer with hands-on experience in building production-level Java desktop applications and database systems. I enjoy creating scalable solutions and working on real-world problems, especially in government tech and management systems.<br><br>🛠️ Tech Stack<br>Languages: Java, C, C++, JavaScript<br>Web: HTML5, CSS3, Responsive Design<br>Database: MySQL, Oracle SQL, JDBC<br>Tools & Frameworks: Java Swing, Maven, MVC Architecture, Git, IntelliJ IDEA, VS Code<br>Core Concepts: OOP, Three-Tier Architecture, Pagination, CSV Export, DB Design<br>💼 What I’ve Built<br>🚲 Mukhyamantri Cycle Yojna Management System<br><br>A full-stack Java Swing + MySQL application built for a Bihar Government scheme<br><br>Managed 15+ database tables<br>Implemented MVC Architecture (UI / Controller / DAO)<br>Features:<br>Student Registration System<br>Inventory & Distribution Tracking<br>Complaint Management<br>Report Generation with CSV Export<br>Built using JDBC + Maven (Executable JAR)<br>🌐 Personal Portfolio Website<br><br>🔗 Visit Here<br><br>Fully responsive design (Mobile + Desktop)<br>Modern UI/UX with optimized performance<br>🎯 Experience<br><br>Software Development Intern<br>(AICTE & ICAC Approved Organization)<br><br>Worked on real-world development projects<br>Gained experience in SDLC & project workflows<br>Improved problem-solving and coding skills<br>🎓 Education<br>🎓 BCA (2023–2026) – Impact College, Patna (Pursuing)<br>📘 ADCA (2022–2023) – Global Foundation<br>📜 Certifications<br>🏅 SQL and Relational Databases 101 – IBM (2025)<br>🌱 Currently Learning<br>Advanced Java Development<br>Backend Development<br>Real-world scalable systems<br>📫 Connect With Me<br>📧 Email: Hardiksingh9097@gmail.com<br>🌐 Portfolio: https://hardixk.vercel.app<br>⚡ Fun Fact<br><br>I love building real-world impactful systems, especially related to government schemes and civic tech 🚀
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hardixk.singh) 
 
-- 🔭 I’m currently working on Advanced AI Project
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help In AI Start-up 
-- 💬 Ask me about Full Stack
-- 📫 How to reach me: hardiksingh9097@gmail.com
-  
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hardixkk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hardixkk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardixkk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=hardixkk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
